@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Moorani</h1>
 <h3 align="center">A passionate Software Engineer developer from Pakistan</h3>
 
-- 🌱 I’m currently learning Web development **HTML || CSS || JS**
+- 🌱 I’m currently Working Web development **HTML || CSS || JS**
 
 - 👨‍💻 All of my projects or certificates are available at [https://www.linkedin.com/in/sandeep-moorani-519104228/](https://www.linkedin.com/in/sandeep-moorani-519104228/)
 
