@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepmoorani" alt="sandeepmoorani" /></a> </p>
 
-- 🔭 I’m currently working on **Python development**
+- 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Frontend development**
 
-- 💬 Ask me about **Python || mysql || data engineering**
+- 💬 Ask me about **HTML || CSS || Bootstrap || JavaScript**
 
 - 📫 How to reach me **sandeepmoorani222@gmail.com**
 
